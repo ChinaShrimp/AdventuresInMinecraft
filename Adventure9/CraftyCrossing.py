@@ -7,10 +7,10 @@
 #import modules
 import mcpi.minecraft as minecraft
 import mcpi.block as block
-import mcpi.minecraftstuff as minecraftstuff
+import minecraftstuff
 import time
 import random
-import thread
+import _thread as thread
 
 #arena constants
 ARENAX = 10
